@@ -11,15 +11,15 @@ module.exports = {
         defaultLanguage: 'ar', // ar | en لغة البوت
         
         activity: {
-            name: 'Wick Studio', // رسالة حالة البوت
+            name: 'discord/gg.ws4', // رسالة حالة البوت
             type: 'WATCHING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
-            status: 'dnd' // online, idle, dnd, invisible
+            status: 'online' // online, idle, dnd, invisible
         }
     },
     server: {
-        guildId: 'ID',         // ايدي السيرفر
-        broadcastRoleId: 'ID', // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'ID' // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: '1109978165201346613',         // ايدي السيرفر
+        broadcastRoleId: '1309603060330401892', // ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: '1372842778450464788' // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
         cooldownTime: 1000, // لا تلعب فيها
